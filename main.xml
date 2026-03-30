@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/softage/Desktop/RetroPad_SKiDL/<interactive></source>
+    <date>03/30/2026 05:55 PM</date>
+    <tool>SKiDL (2.2.1)</tool>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>"1k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="R2">
+      <value>"1k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="UP1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U4">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="DOWN1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U6">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="LEFT1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U8">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="RIGHT1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U10">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="BTN1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U12">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="BTN2">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U14">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="BTN3">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U16">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="RAPID1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U18">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="JUMP1">
+      <value>"SW"</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="NO_LIB" part=""SW""/>
+    </comp>
+    <comp ref="U20">
+      <value>"10k"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="R3">
+      <value>"330"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="D1">
+      <value>"LED"</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="NO_LIB" part=""LED""/>
+    </comp>
+    <comp ref="R7">
+      <value>"0"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="R8">
+      <value>"0"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="R9">
+      <value>"0"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="R10">
+      <value>"0"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="R11">
+      <value>"0"</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="NO_LIB" part=""R""/>
+    </comp>
+    <comp ref="U28">
+      <value>"J1"</value>
+      <footprint>Connector_Dsub:DSUB-9_Male_EdgeMount_P2.77mm</footprint>
+      <libsource lib="NO_LIB" part=""J1""/>
+    </comp>
+    <comp ref="U29">
+      <value>"J2"</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal</footprint>
+      <libsource lib="NO_LIB" part=""J2""/>
+    </comp>
+    <comp ref="U1">
+      <value>"U1"</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <libsource lib="NO_LIB" part=""U1""/>
+    </comp>
+    <comp ref="C1">
+      <value>"0.1uF"</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x4.5</footprint>
+      <libsource lib="NO_LIB" part=""C""/>
+    </comp>
+  </components>
+  <nets>
+    <net code="0" name="VCC">
+      <node ref="R3" pin="1"/>
+      <node ref="JUMP1" pin="1"/>
+      <node ref="UP1" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="BTN2" pin="1"/>
+      <node ref="LEFT1" pin="1"/>
+      <node ref="DOWN1" pin="1"/>
+      <node ref="BTN3" pin="1"/>
+      <node ref="U1" pin="13"/>
+      <node ref="BTN1" pin="1"/>
+      <node ref="U29" pin="3"/>
+      <node ref="RIGHT1" pin="1"/>
+      <node ref="RAPID1" pin="1"/>
+    </net>
+    <net code="1" name="GND">
+      <node ref="U14" pin="2"/>
+      <node ref="U6" pin="2"/>
+      <node ref="U12" pin="2"/>
+      <node ref="U8" pin="2"/>
+      <node ref="U16" pin="2"/>
+      <node ref="U18" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U20" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="U28" pin="9"/>
+      <node ref="U1" pin="7"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U29" pin="4"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="2" name="POTX">
+      <node ref="U1" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="3" name="POTY">
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="4" name="UP">
+      <node ref="R7" pin="1"/>
+      <node ref="UP1" pin="2"/>
+      <node ref="U4" pin="1"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="5" name="DOWN">
+      <node ref="DOWN1" pin="2"/>
+      <node ref="U6" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="6" name="LEFT">
+      <node ref="R9" pin="1"/>
+      <node ref="LEFT1" pin="2"/>
+      <node ref="U8" pin="1"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="7" name="RIGHT">
+      <node ref="U10" pin="1"/>
+      <node ref="RIGHT1" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="8" name="BTN1">
+      <node ref="U12" pin="1"/>
+      <node ref="BTN1" pin="2"/>
+    </net>
+    <net code="9" name="BTN2">
+      <node ref="BTN2" pin="2"/>
+      <node ref="U14" pin="1"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U28" pin="6"/>
+    </net>
+    <net code="10" name="BTN3">
+      <node ref="BTN3" pin="2"/>
+      <node ref="U28" pin="7"/>
+      <node ref="U16" pin="1"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="11" name="RAPID">
+      <node ref="U1" pin="11"/>
+      <node ref="RAPID1" pin="2"/>
+      <node ref="U28" pin="8"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U18" pin="1"/>
+    </net>
+    <net code="12" name="FIRE">
+      <node ref="JUMP1" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U20" pin="1"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="13" name="DB9_UP">
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="14" name="DB9_DOWN">
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="15" name="DB9_LEFT">
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="16" name="DB9_RIGHT">
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="17" name="DB9_FIRE">
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="18" name="DB9_UP1">
+      <node ref="U28" pin="1"/>
+    </net>
+    <net code="19" name="DB9_DOWN1">
+      <node ref="U28" pin="2"/>
+    </net>
+    <net code="20" name="DB9_LEFT1">
+      <node ref="U28" pin="3"/>
+    </net>
+    <net code="21" name="DB9_RIGHT1">
+      <node ref="U28" pin="4"/>
+    </net>
+    <net code="22" name="DB9_FIRE1">
+      <node ref="U28" pin="5"/>
+    </net>
+    <net code="23" name="UPDI">
+      <node ref="U29" pin="1"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="24" name="RESET">
+      <node ref="U29" pin="2"/>
+      <node ref="U1" pin="12"/>
+    </net>
+  </nets>
+</export>

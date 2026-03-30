@@ -1,0 +1,1221 @@
+(export 
+  (version "D")
+  (design
+    (source "<interactive>")
+    (date "03/30/2026 05:55 PM")
+    (tool "SKiDL (2.2.1)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "<interactive>")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "BTN1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "4bjpN8P7Ud")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3b7b1251-9f8c-5189-b77c-686b1626ad00"))
+    (comp
+      (ref "BTN2")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "vk84wvKrT5")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a78cb8d9-e44b-5f3b-a214-26446154c5f7"))
+    (comp
+      (ref "BTN3")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "DEkrQwPeZU")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "09070cb2-2e91-5598-8752-cc1f29f2bba4"))
+    (comp
+      (ref "C1")
+      (value "0.1uF")
+      (description "")
+      (footprint "Capacitor_SMD:CP_Elec_4x4.5")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:CP_Elec_4x4.5")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "9c_mgIDPB_")
+        (field
+          (name "SKiDL Line") "<string>:140"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e4698539-b4f7-5abd-9f8a-a0e82952535e"))
+    (comp
+      (ref "D1")
+      (value "LED")
+      (description "")
+      (footprint "LED_THT:LED_D3.0mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_THT:LED_D3.0mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "IlazbjlW0j")
+        (field
+          (name "SKiDL Line") "<string>:91"))
+      (libsource
+        (lib "NO_LIB")
+        (part "LED"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c312dd65-ee87-5c06-80a8-b8257816bb5d"))
+    (comp
+      (ref "DOWN1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "N_bTy_UiK2")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b9c6d40c-7e32-553a-8263-eba1c86afa59"))
+    (comp
+      (ref "JUMP1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "cfNhUH2fer")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ae4d87df-b7dd-5537-8b14-50579f4d6591"))
+    (comp
+      (ref "LEFT1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "3T7LhzcaPy")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b6d6bf35-4237-5680-85d5-78ad5ba4c824"))
+    (comp
+      (ref "R1")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "igEzJTiTHk")
+        (field
+          (name "SKiDL Line") "<string>:63"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7a88d5a8-d588-58b1-bad7-1eef0994c427"))
+    (comp
+      (ref "R10")
+      (value "0")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "mIQa_xS4Vs")
+        (field
+          (name "SKiDL Line") "<string>:46"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "392d2b54-33a7-52fb-9445-5ccabd909037"))
+    (comp
+      (ref "R11")
+      (value "0")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "S1hm_CPqHs")
+        (field
+          (name "SKiDL Line") "<string>:46"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "8bcce275-a5e3-5ee5-ad99-8192f138e804"))
+    (comp
+      (ref "R2")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Z4hZVS8xhx")
+        (field
+          (name "SKiDL Line") "<string>:69"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "728928ea-b00d-5c07-89e2-5decfb161cbc"))
+    (comp
+      (ref "R3")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "4PKO8kImfc")
+        (field
+          (name "SKiDL Line") "<string>:85"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "79058f51-6c08-5110-8c01-50fb039517f0"))
+    (comp
+      (ref "R7")
+      (value "0")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ZwERh0glJt")
+        (field
+          (name "SKiDL Line") "<string>:46"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "50eb9769-3d3d-5846-86e4-7073e1f264f6"))
+    (comp
+      (ref "R8")
+      (value "0")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "uZBhX6PWd0")
+        (field
+          (name "SKiDL Line") "<string>:46"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "63e2b523-7bc7-51b1-8d83-a744adf9cfae"))
+    (comp
+      (ref "R9")
+      (value "0")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ZTbkwPlF0V")
+        (field
+          (name "SKiDL Line") "<string>:46"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b5188880-3b24-58e2-b287-490f90b947c2"))
+    (comp
+      (ref "RAPID1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ATUJfZlSPm")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "f2a5dd35-2b53-572b-9469-543cc30a66b3"))
+    (comp
+      (ref "RIGHT1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Xf13lDM4jp")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "997368a7-f966-57f9-aa33-d391c0db137d"))
+    (comp
+      (ref "U1")
+      (value "U1")
+      (description "")
+      (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "eiN6hTXsLW")
+        (field
+          (name "SKiDL Line") "<string>:122"))
+      (libsource
+        (lib "NO_LIB")
+        (part "U1"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e38dd777-7c5c-5a63-8703-729652c689f6"))
+    (comp
+      (ref "U10")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "eHpx1Neeyx")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "be174cfa-cefd-5d78-8e7b-8c98cd3d6998"))
+    (comp
+      (ref "U12")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Aij0LCbpg6")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0580bbac-ee46-5a1c-8bf4-d7e90f3016a2"))
+    (comp
+      (ref "U14")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "kE9vmYlDHf")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7190850e-6769-589a-bea8-492855ebca82"))
+    (comp
+      (ref "U16")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "zvmALnBKzg")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "821afb0b-a066-502e-9a98-d5c9e45c1a59"))
+    (comp
+      (ref "U18")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "D3yxPZiiAd")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0f16e8de-8de2-57a3-8aab-b803155b5d81"))
+    (comp
+      (ref "U20")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "5EYAYecqR8")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "801e0a84-e9ed-5e81-bcfa-8e07698f6766"))
+    (comp
+      (ref "U28")
+      (value "J1")
+      (description "")
+      (footprint "Connector_Dsub:DSUB-9_Male_EdgeMount_P2.77mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Dsub:DSUB-9_Male_EdgeMount_P2.77mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "NEQOudP1bT")
+        (field
+          (name "SKiDL Line") "<string>:102"))
+      (libsource
+        (lib "NO_LIB")
+        (part "J1"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a270c563-c00b-54aa-8eb5-2602f3f05b03"))
+    (comp
+      (ref "U29")
+      (value "J2")
+      (description "")
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ezjceGSSIh")
+        (field
+          (name "SKiDL Line") "<string>:116"))
+      (libsource
+        (lib "NO_LIB")
+        (part "J2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "466c8ff0-22d9-51b7-a184-22840c1f90cc"))
+    (comp
+      (ref "U4")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "vrmuwkWPfo")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "79e1d140-b710-5dd1-b26a-16286a3f988b"))
+    (comp
+      (ref "U6")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "axL_WBOxaX")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "5f8b4246-aa2b-5a1a-b56e-82f73ba8db68"))
+    (comp
+      (ref "U8")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0805_2012Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "HfIx90Ijdb")
+        (field
+          (name "SKiDL Line") "<string>:32"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "580e0649-af59-5554-845d-1b22af017739"))
+    (comp
+      (ref "UP1")
+      (value "SW")
+      (description "")
+      (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Button_Switch_SMD:SW_SPST_TL3342")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "v5Lk81EaV4")
+        (field
+          (name "SKiDL Line") "<string>:19"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9fa8efbb-b9fa-539f-92f9-6f5e0e8d2446")))
+  (nets
+    (net
+      (code 1)
+      (name "BTN1")
+      (class "Default")
+      (node
+        (ref "BTN1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U12")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 2)
+      (name "BTN2")
+      (class "Default")
+      (node
+        (ref "BTN2")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "9")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U14")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U28")
+        (pin "6")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 3)
+      (name "BTN3")
+      (class "Default")
+      (node
+        (ref "BTN3")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "10")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U16")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U28")
+        (pin "7")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 4)
+      (name "DB9_DOWN")
+      (class "Default")
+      (node
+        (ref "R8")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 5)
+      (name "DB9_DOWN1")
+      (class "Default")
+      (node
+        (ref "U28")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 6)
+      (name "DB9_FIRE")
+      (class "Default")
+      (node
+        (ref "R11")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 7)
+      (name "DB9_FIRE1")
+      (class "Default")
+      (node
+        (ref "U28")
+        (pin "5")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 8)
+      (name "DB9_LEFT")
+      (class "Default")
+      (node
+        (ref "R9")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 9)
+      (name "DB9_LEFT1")
+      (class "Default")
+      (node
+        (ref "U28")
+        (pin "3")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 10)
+      (name "DB9_RIGHT")
+      (class "Default")
+      (node
+        (ref "R10")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 11)
+      (name "DB9_RIGHT1")
+      (class "Default")
+      (node
+        (ref "U28")
+        (pin "4")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 12)
+      (name "DB9_UP")
+      (class "Default")
+      (node
+        (ref "R7")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 13)
+      (name "DB9_UP1")
+      (class "Default")
+      (node
+        (ref "U28")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 14)
+      (name "DOWN")
+      (class "Default")
+      (node
+        (ref "DOWN1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R8")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "4")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U6")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 15)
+      (name "FIRE")
+      (class "Default")
+      (node
+        (ref "JUMP1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R11")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "8")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U20")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 16)
+      (name "GND")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "D1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R2")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "7")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U10")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U12")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U14")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U16")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U18")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U20")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U28")
+        (pin "9")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U29")
+        (pin "4")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U4")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U6")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U8")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 17)
+      (name "LEFT")
+      (class "Default")
+      (node
+        (ref "LEFT1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R9")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "5")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U8")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 18)
+      (name "POTX")
+      (class "Default")
+      (node
+        (ref "R1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 19)
+      (name "POTY")
+      (class "Default")
+      (node
+        (ref "R2")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 20)
+      (name "RAPID")
+      (class "Default")
+      (node
+        (ref "D1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R3")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "RAPID1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "11")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U18")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U28")
+        (pin "8")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 21)
+      (name "RESET")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "12")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U29")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 22)
+      (name "RIGHT")
+      (class "Default")
+      (node
+        (ref "R10")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "RIGHT1")
+        (pin "2")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "6")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U10")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 23)
+      (name "UP")
+      (class "Default")
+      (node
+        (ref "R7")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "3")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U4")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "UP1")
+        (pin "2")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 24)
+      (name "UPDI")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "14")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U29")
+        (pin "1")
+        (pintype "UNSPECIFIED")))
+    (net
+      (code 25)
+      (name "VCC")
+      (class "Default")
+      (node
+        (ref "BTN1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "BTN2")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "BTN3")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "C1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "DOWN1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "JUMP1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "LEFT1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "R3")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "RAPID1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "RIGHT1")
+        (pin "1")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U1")
+        (pin "13")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "U29")
+        (pin "3")
+        (pintype "UNSPECIFIED"))
+      (node
+        (ref "UP1")
+        (pin "1")
+        (pintype "UNSPECIFIED")))))
